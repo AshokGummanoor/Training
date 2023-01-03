@@ -1,1 +1,13 @@
-Tell me about the kinds of scripting langugaes
+echo "Yeshwanth"
+
+echo "Enter Password"
+read Password
+if [ $Password == "yash" ]
+	then
+		echo "The Password entered is correct"
+	else
+		echo "The Password entered is incoreect" 
+fi
+
+echo "Scripting is used maily for the backend process where user user can see the o/p"
+echo " In Scripting we have Variables , Functions, Loops"
