@@ -1,1 +1,22 @@
 Write which linux commands you feel important for daily operations
+Puneeth kumar
+LINUX COMMANDS
+ Sudo
+ ps
+ pwd
+ Mkdir
+ cd
+ touch 
+ nano
+ 
+An operating system is a system software that acts as a link between the software and hardware components of a computer. It
+receives requests from the other software on the system and communicates them to the hardware.
+
+Open-source software refers to a program whose source code is publicly accessible so that the users can use, modify or distribute
+it as they see fit. You also came to know that the different kinds of Linux distributions are ubuntu, fedora, debian etc.
+
+A Linux distribution is an operating system based upon a singular Linux core and is available in a wide variety based upon who
+wants to use the OS for what purpose. There are over 600 kinds of Linux distributions based on whether a certain distribution (also
+called Distro) is made for embedded systems, personal computers, phones etc.
+
+
